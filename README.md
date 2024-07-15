@@ -1,5 +1,5 @@
 # Olá 👋🏽
-Eu sou o Júlio, tenho experiência em desenvolvimento full stack e análise de dados em ambientes ágeis. Atualmente tenho como foco, além do desenvolvimento full stack, o desenvolvimento de front-end.
+Eu sou o Júlio César, tenho experiência em desenvolvimento full stack e análise de dados em ambientes ágeis. Atualmente tenho como foco, além do desenvolvimento full stack, o desenvolvimento de front-end.
 
 # Minhas habilidades 👨🏽‍💻
 Minhas principais habilidades são:
@@ -14,4 +14,4 @@ Minhas principais habilidades são:
 - Scrum / Kanban
 
 # E o que mais? 🕵🏽‍♂️
-Para saber mais, você pode me contatar no [Linkedin](https://www.linkedin.com/in/jcnevess/). Também possuo um [site pessoal](https://jcnevess.github.io/) (em atualização).
+Para saber mais, você pode me contatar no [Linkedin](https://www.linkedin.com/in/jcnevess/). Também possuo um [site pessoal](https://jcnevess.github.io/)
