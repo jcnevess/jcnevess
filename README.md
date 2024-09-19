@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Read_it_in-English-red)](README-en.md)
+
 # Olá 👋🏽
 Possuo experiência no desenvolvimento de aplicações web eficientes utilizando Node.js, Python e Angular. Sempre prezando pelas boas práticas de programação e entregas de valor, já tive a oportunidade de trabalhar em equipes geograficamente distribuídas. Também possuo conhecimentos em React, Java e bancos de dados e disponho de facilidade de assimilar novos conceitos e proatividade para trabalho em equipe.
 
