@@ -6,7 +6,7 @@ I have experience developing efficient web applications using Node.js, Python an
 # My skills 👨🏽‍💻
 My main skills are:
 - Javascript / Typescript / Node.js;
-- React / Angular;
+- React / Vue / Angular;
 - HTML 5 / CSS 3;
 - Sass/Bootstrap;
 - Python;
