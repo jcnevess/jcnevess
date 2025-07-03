@@ -6,7 +6,7 @@ Possuo experiência no desenvolvimento de aplicações web eficientes utilizando
 # Minhas habilidades 👨🏽‍💻
 Minhas principais habilidades são:
 - Javascript / Typescript / Node.js;
-- React / Angular;
+- React / Vue / Angular;
 - HTML 5 / CSS 3;
 - Sass / Bootstrap;
 - Python;
